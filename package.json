@@ -11,8 +11,9 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
-  "homepage": "https://meetpatel89.github.io/sally-resume",
+  "homepage": "https://MeetPatel89.github.io/sally-resume",
   "scripts": {
+    "predeploy": "npm run build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
